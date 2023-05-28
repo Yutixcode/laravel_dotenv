@@ -1,2 +1,1 @@
-# laravel_dotenv
-Laravel .env Scanner
+<img src="Screenshot_20230529-025414_Termux-picsay.jpg" alt="preview" />
