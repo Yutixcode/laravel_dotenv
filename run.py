@@ -1,3 +1,6 @@
+# Code by Yutix
+# donate: https://saweria.co/lordyutix
+
 import sys
 import requests as req
 req.urllib3.disable_warnings()
