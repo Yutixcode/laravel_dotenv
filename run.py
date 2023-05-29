@@ -51,7 +51,7 @@ class Gaskeun:
 			print(f" {reset}{red}NOT FOUND {reset}{dim}{white}{site}")
 				
 		except KeyboardInterrupt:
-			print("\r Killed. ", end="", flush=True)
+			print("\r {reset}Killed. ", end="", flush=True)
 			exit()
 	
 print(f"""{reset}
